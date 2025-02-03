@@ -1,0 +1,1 @@
+This is a CRUD application using Java Springboot and H2 (in-memory) database.
